@@ -1,0 +1,49 @@
+# ========================================
+# Amazon ML Challenge Datasets & Outputs
+# ========================================
+dataset/
+output/
+*.tsv
+*.csv
+*.zip
+*.tar.gz
+.virtual_documents/
+# ========================================
+# Python Virtual Environments
+# ========================================
+venv/
+env/
+.env/
+.venv/
+conda-env/
+
+# ========================================
+# Python Caches & Artifacts
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ========================================
+# Jupyter Notebooks
+# ========================================
+.ipynb_checkpoints/
+
+# ========================================
+# macOS Specific
+# ========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ========================================
+# IDEs and Editors
+# ========================================
+.vscode/
+.idea
+# Secrets & AWS Credentials
+# ========================================
+.env
+credentials.json
+aws_credentials.ini
