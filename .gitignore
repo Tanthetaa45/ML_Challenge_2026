@@ -47,3 +47,4 @@ __pycache__/
 .env
 credentials.json
 aws_credentials.ini
+student_resource/
